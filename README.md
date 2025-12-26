@@ -12,12 +12,12 @@ Phù hợp xu hướng chuyển đổi số trong lĩnh vực du lịch.
 
 ## Một số chức năng chính:
 + Đối với người dùng:
-Tìm kiếm và xem thông tin các tour.
-Đặt tour online và xem lịch sử đặt.
-Đăng ký, đăng nhập (hỗ trợ đăng nhập Google).
+Tìm kiếm và xem thông tin các tour.  
+Đặt tour online và xem lịch sử đặt.  
+Đăng ký, đăng nhập (hỗ trợ đăng nhập Google).  
 + Đối với quản trị viên:
-Quản lý tour, địa điểm, khách sạn, nhà hàng.
-Quản lý người dùng.
-Quản lý và xử lý đơn đặt tour.
+Quản lý tour, địa điểm, khách sạn, nhà hàng.  
+Quản lý người dùng.  
+Quản lý và xử lý đơn đặt tour.  
 
 
