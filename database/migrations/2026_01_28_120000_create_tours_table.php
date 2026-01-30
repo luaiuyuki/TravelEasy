@@ -19,7 +19,7 @@ return new class extends Migration
         $table->date('end_day');
 
         $table->decimal('cost', 12, 2)->default(0);
-        $table->string('image')->nullable();
+        $table->string('image');
         $table->text('description')->nullable();//mô tả
 
         // foreign keys
